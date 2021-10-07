@@ -1,7 +1,7 @@
 # Java Sqlite Desktop Application Water Sales
 
 Bu proje çeşitli yazılım teknolojileri kullanılarak su satıcıları ve tedarikçilerinin satış süreçlerini yönetiminde isterlerini karşılamayı hedefleyen bir otomasyon projesidir.
-
+It is an automation project that aims to meet the demands of water sellers and suppliers in the management of their sales processes.
 ## Kullanılan Diller ve Yetenekler
 
 | Dil / Yetenek | :arrow_right: | % |
