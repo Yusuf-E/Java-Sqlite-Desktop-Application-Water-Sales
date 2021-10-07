@@ -16,10 +16,10 @@ Bu proje çeşitli yazılım teknolojileri kullanılarak su satıcıları ve ted
 <a href="https://github.com/Yusuf-E/Java-Sqlite-Desktop-Application-Water-Sales/blob/main/images/1.jpg" target="_blank">
 <img src="https://github.com/Yusuf-E/Java-Sqlite-Desktop-Application-Water-Sales/blob/main/images/1.jpg" width="200" style="max-width:80%;"></a>
   
- <a href="https://github.com/Yusuf-E/Java-Sqlite-Desktop-Application-Water-Sales/blob/main/images/2.jpg" target="_blank">
+<a href="https://github.com/Yusuf-E/Java-Sqlite-Desktop-Application-Water-Sales/blob/main/images/2.jpg" target="_blank">
 <img src="https://github.com/Yusuf-E/Java-Sqlite-Desktop-Application-Water-Sales/blob/main/images/2.jpg" width="200" style="max-width:100%;"></a>
   
- <a href="https://github.com/Yusuf-E/Java-Sqlite-Desktop-Application-Water-Sales/blob/main/images/3.jpg" target="_blank">
+<a href="https://github.com/Yusuf-E/Java-Sqlite-Desktop-Application-Water-Sales/blob/main/images/3.jpg" target="_blank">
 <img src="https://github.com/Yusuf-E/Java-Sqlite-Desktop-Application-Water-Sales/blob/main/images/3.jpg" width="200" style="max-width:100%;"></a>
   
 <a href="https://github.com/Yusuf-E/Java-Sqlite-Desktop-Application-Water-Sales/blob/main/images/4.jpg" target="_blank">
@@ -54,4 +54,5 @@ Bu proje çeşitli yazılım teknolojileri kullanılarak su satıcıları ve ted
   
 <a href="https://github.com/Yusuf-E/Java-Sqlite-Desktop-Application-Water-Sales/blob/main/images/14.jpg" target="_blank">
 <img src="https://github.com/Yusuf-E/Java-Sqlite-Desktop-Application-Water-Sales/blob/main/images/14.jpg" width="200" style="max-width:100%;"></a>
-  </p>
+  
+</p>
