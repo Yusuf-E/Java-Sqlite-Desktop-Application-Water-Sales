@@ -46,4 +46,4 @@ Uygulama Açıklaması
   
 <a href="https://github.com/Yusuf-E/Java-Sqlite-Desktop-Application-Water-Sales/blob/main/images/14.jpg" target="_blank">
 <img src="https://github.com/Yusuf-E/Java-Sqlite-Desktop-Application-Water-Sales/blob/main/images/14.jpg" width="200" style="max-width:100%;"></a>
-  
+  </p>
