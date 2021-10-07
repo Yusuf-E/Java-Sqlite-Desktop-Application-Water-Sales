@@ -1,6 +1,14 @@
-# Java-Sql-Desktop-Application---Water-Sales
+# Java-Sqlite-Desktop-Application---Water-Sales
 
-Uygulama Açıklaması
+Bu proje çeşitli yazılım teknolojileri kullanılarak su satıcıları ve tedarikçilerinin satış süreçlerini yönetiminde isterlerini karşılamayı hedefleyen bir otomasyon projesidir.
+
+## Kullanılan Diller ve Yetenekler
+
+| Dil / Yetenek | :arrow_right: | % |
+| ------------- |:-------------:|:-------------:|
+| Java | :arrow_right: | 90 |
+| JFrame | :arrow_right: | 80 |
+| SQLite | :arrow_right: | 70 |
 
 ## Uygulama Görselleri
 
